@@ -18,3 +18,9 @@ Generate training and validation datasets by incorporating different variants of
 Develop a data preprocessing pipeline: Prepare and transform the data for use in fine-tuning the language model.
 Implement a fine-tuning methodology: Fine-tune the model using the prepared datasets to optimize its performance.
 Document your approach and results in the code: Clearly explain your methodology, decisions, and outcomes within the codebase.
+
+
+
+[Reporting-File-Sajib.pdf](https://github.com/user-attachments/files/18531624/Reporting-File-Sajib.pdf)
+
+
