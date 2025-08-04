@@ -21,6 +21,5 @@ Document your approach and results in the code: Clearly explain your methodology
 
 
 
-[Reporting-File-Sajib.pdf](https://github.com/user-attachments/files/18531624/Reporting-File-Sajib.pdf)
 
 
